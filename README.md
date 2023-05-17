@@ -9,8 +9,6 @@ Virat Srivastava is a sophomore at VIT. Currently working as a ML Contributer at
 
 
  </p>
- 
-
 
 
 ## Github Stats
