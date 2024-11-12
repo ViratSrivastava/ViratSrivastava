@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/ViratSrivastava/ViratSrivastava/blob/main/github-header-image.png" alt="Virat Srivastava Header Image" />
 </div>
-✨ Creating bugs since 2019
+✨ Creating bugs since 2019 
 
 📚 I'm currently working on Deep Tech ML applications.
 
@@ -9,7 +9,12 @@ I have a keen interest in Development, Machine Learning, Robotics and Reinforcem
 
 I have worked as a full time intern in NRSC, ISRO as ML Devloper, focusing on integrating AI into real-life applications. Additionally, I hold the position of Secretary at the AI Club - VIT Bhopal University, where I am deeply involved in governing the club and contributing as a member of the tech team.
 
-✉️ Email: viratsrivastava.work@gmail.com
+✉️ Email: viratsrivastava.work@gmail.com  
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@blackflame___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/virat-srivastava) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@virat-srivastava) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18400816) 
+</div>
 
 Feel free to reach out to me for collaborations, discussions, or anything related to AI, Data Science, Robotics, or Reinforcement Learning!
 <div align="center">
@@ -18,9 +23,6 @@ Feel free to reach out to me for collaborations, discussions, or anything relate
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViratSrivastava/ViratSrivastava/main/profile-3d-contrib/profile-green-animate.svg" />
   <img alt="github-woer" src="https://raw.githubusercontent.com/ViratSrivastava/ViratSrivastava/main/profile-3d-contrib/profile-green-animate.svg" />
 </picture>
-
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@blackflame___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/virat-srivastava) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@virat-srivastava) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18400816) 
 
 ## 💻 Tech Stack
 
@@ -47,8 +49,6 @@ Feel free to reach out to me for collaborations, discussions, or anything relate
   <img src="https://streak-stats.demolab.com?user=ViratSrivastava&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="130" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViratSrivastava&locale=en&hide_title=true&layout=compact&card_width=280&langs_count=5&theme=dracula&hide_border=true" height="130" alt="languages graph" />
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=ViratSrivastava&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViratSrivastava/ViratSrivastava/output/github-snake-dark.svg" />
