@@ -1,16 +1,23 @@
-# Virat Srivastava
+<div align="center">
+  <img src="https://github.com/ViratSrivastava/ViratSrivastava/blob/main/github-header-image.png" alt="Virat Srivastava Header Image" />
+</div>
+✨ Creating bugs since 2019
 
-## About Me
-**Deep Tech ML Engineer**  
-Building intelligent systems with a passion for AI, Machine Learning, and Robotics. Currently exploring Reinforcement Learning and its real-world applications.
+📚 I'm currently working on Deep Tech ML applications.
 
-### Experience
-- **NRSC, ISRO** - ML Developer Intern
-- **VIT Bhopal AI Club** - Secretary and Tech Team Member
+I have a keen interest in Development, Machine Learning, Robotics and Reinforcement Learning, constantly exploring ways to innovate and apply these technologies in real-world scenarios.
 
-**Let's Connect:**  
-**Email:** [viratsrivastava.work@gmail.com](mailto:viratsrivastava.work@gmail.com)  
-Open to collaborations and discussions!
+I have worked as a full time intern in NRSC, ISRO as ML Devloper, focusing on integrating AI into real-life applications. Additionally, I hold the position of Secretary at the AI Club - VIT Bhopal University, where I am deeply involved in governing the club and contributing as a member of the tech team.
+
+✉️ Email: viratsrivastava.work@gmail.com
+
+Feel free to reach out to me for collaborations, discussions, or anything related to AI, Data Science, Robotics, or Reinforcement Learning!
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViratSrivastava/ViratSrivastava/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViratSrivastava/ViratSrivastava/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="github-woer" src="https://raw.githubusercontent.com/ViratSrivastava/ViratSrivastava/main/profile-3d-contrib/profile-green-animate.svg" />
+</picture>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@blackflame___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/virat-srivastava) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@virat-srivastava) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18400816) 
@@ -41,14 +48,7 @@ Open to collaborations and discussions!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViratSrivastava&locale=en&hide_title=true&layout=compact&card_width=280&langs_count=5&theme=dracula&hide_border=true" height="130" alt="languages graph" />
 </div>
 
-
-###
-
----
-
 [![](https://visitcount.itsvg.in/api?id=ViratSrivastava&icon=8&color=0)](https://visitcount.itsvg.in)
-<br clear="both">
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViratSrivastava/ViratSrivastava/output/github-snake-dark.svg" />
@@ -56,4 +56,9 @@ Open to collaborations and discussions!
   <img alt="github-snake" src="https://raw.githubusercontent.com/ViratSrivastava/ViratSrivastava/output/github-snake.svg" />
 </picture>
 
---- 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF79C6&size=22&center=true&vCenter=true&width=1500&height=50&lines=%F0%9F%8E%B2+Fun+fact%3A+None+of+my+code+is+valuable+enoughfor+GitHub's+Arctic+Vault" alt="animated box" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF79C6&size=22&center=true&vCenter=true&width=1500&height=50&lines=+and+Probably,+same+goes+for+you+too%3B+Probably.+We+got+that+in+common." alt="animated box" />
+</p>
+</div>
