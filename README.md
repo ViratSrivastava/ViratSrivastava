@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/ViratSrivastava/ViratSrivastava/blob/main/github-header-image.png" alt="Virat Srivastava Header Image" />
 </div>
-✨ Creating bugs since 2019 
+✨ Creating bugs since 2018 
 
 📚 I'm currently working on Deep Tech ML applications.
 
