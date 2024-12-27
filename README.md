@@ -7,7 +7,7 @@
 
 I have a keen interest in Development, Machine Learning, Robotics and Reinforcement Learning, constantly exploring ways to innovate and apply these technologies in real-world scenarios.
 
-I have worked as a full time intern in NRSC, ISRO as ML Devloper, focusing on integrating AI into real-life applications. Additionally, I hold the position of Secretary at the AI Club - VIT Bhopal University, where I am deeply involved in governing the club and contributing as a member of the tech team.
+I have worked as a full time intern in NRSC, ISRO as ML Devloper, focusing on integrating AI into real-life applications. Additionally, I hold the position of Secretary at the AI Club - VIT Bhopal University, where I am deeply involved in governing the club and previously contributed as a member of the tech team.
 
 ✉️ Email: viratsrivastava.work@gmail.com  
 
