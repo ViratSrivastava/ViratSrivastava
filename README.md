@@ -7,13 +7,14 @@
 
 I have a keen interest in Development, Machine Learning, Robotics and Reinforcement Learning, constantly exploring ways to innovate and apply these technologies in real-world scenarios.
 
-I have worked as a full time intern in NRSC, ISRO as ML Devloper, focusing on integrating AI into real-life applications. Additionally, I hold the position of Secretary at the AI Club - VIT Bhopal University, where I am deeply involved in governing the club and previously contributed as a member of the tech team.
+I have worked as a full time intern in NRSC, ISRO as ML Devloper, focusing on integrating AI into real-life applications. Additionally, I held the position of Secretary at the AI Club - VIT Bhopal University, where I am deeply involved in governing the club and previously contributed as a member of the tech team.
 
 ✉️ Email: viratsrivastava.work@gmail.com  
+✉️ Alt. Email: vs.viratsrivastava11111@gmail.com  
 
 <div align="center">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@blackflame___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/virat-srivastava) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@virat-srivastava) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18400816) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@blackflame___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/virat-srivastava) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@virat-srivastava) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18400816) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://viratsrivastava-portfolio.vercel.app)
 </div>
 
 Feel free to reach out to me for collaborations, discussions, or anything related to AI, Data Science, Robotics, or Reinforcement Learning!
