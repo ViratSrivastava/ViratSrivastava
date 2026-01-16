@@ -7,9 +7,9 @@
 
 I have a keen interest in Development, Machine Learning, Robotics and Reinforcement Learning, constantly exploring ways to innovate and apply these technologies in real-world scenarios.
 
-Presently, I'm Working as a full-time Agentic AI Developer at FirstEigen LLC.
-DataBuck is a data quality and assessment tool developed by Team at FirstEigen.As a part of my present responsibilities, I'm Developing Databuck's BuckGPT - an Agentic System built on top of Databuck's existing capabilities, providing conversational flow to User. 
-Additionally, I'm working on experimental features that dictates direction of agentic features and its development direction.
+I worked as a full-time Agentic AI Developer at FirstEigen LLC.
+DataBuck was a data quality and assessment tool developed by the team at FirstEigen. As part of my responsibilities, I developed Databuck's BuckGPT—an Agentic System built on top of Databuck's existing capabilities, providing conversational flow to the user.
+Additionally, I worked on experimental features that dictated the direction of agentic capabilities and their development roadmap.
 
 I have worked as a full time intern in NRSC, ISRO as ML Devloper, focusing on integrating AI into real-life applications. Additionally, I held the position of Secretary at the AI Club - VIT Bhopal University, where I am deeply involved in governing the club and previously contributed as a member of the tech team.
 
