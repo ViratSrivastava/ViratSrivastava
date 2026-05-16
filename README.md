@@ -7,6 +7,8 @@
 
 I have a keen interest in Development, Machine Learning, Robotics and Reinforcement Learning, constantly exploring ways to innovate and apply these technologies in real-world scenarios.
 
+Presently. I'm working full time at Vyomfix Labs as Software Architect
+
 I have worked as a full-time Agentic AI Developer at FirstEigen LLC.
 DataBuck was a data quality and assessment tool developed by the team at FirstEigen. As part of my responsibilities, I developed Databuck's BuckGPT—an Agentic System built on top of Databuck's existing capabilities, providing conversational flow to the user.
 Additionally, I worked on experimental features that dictated the direction of agentic capabilities and their development roadmap.
